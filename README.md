@@ -7,7 +7,7 @@ b. **Huge sequence length**
 ## Idea 
 Model   
 a. Takes **character level** inputs  
-b. Learns to form **words** them  
+b. Learns to form **words** from them  
 c. Produces **character level** outputs.  
           
 ## Soln 
