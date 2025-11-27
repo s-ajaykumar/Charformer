@@ -13,5 +13,5 @@ b. Learns to form **words** from them
 c. Produces **character level** outputs.  
           
 ## Soln 
-Implementing and testing multiple modifications in transformers. 
+Implementing and testing multiple modifications in transformers.   
 Code in **/src**  
